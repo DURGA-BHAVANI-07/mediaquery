@@ -28,7 +28,7 @@ header nav ul li a {
 }
 
 #hero {
-    background-image: url(../Desktop/Desktop/avengers.jpg);
+    background-image: url(./avengers.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
